@@ -4,5 +4,5 @@
 ผู้สร้าง นายณัฐนนท์ บุญเขตต์ รหัส6310682726
 
 Demo: 
-[![Watch the video](https://img.youtube.com)](https://youtu.be/X-PD0LlKj24)
-https://img.youtube.com/vi/https://youtu.be/X-PD0LlKj24/maxresdefault.jpg
+[![Watch the video](https://img.youtube.com/vi)](https://youtu.be/X-PD0LlKj24)
+http://img.youtube.com/vi/X-PD0LlKj24
