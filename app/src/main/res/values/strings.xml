@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="title">Number Guessing Game</string>
+    <string name="signature_text">Try to guess the number I am thinging of from 1 - 1000!</string>
+    <string name="roll">Roll</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="cost_of_service">Your Guess</string>
+    <string name="tip_amount">Hint: %s</string>
+</resources>
